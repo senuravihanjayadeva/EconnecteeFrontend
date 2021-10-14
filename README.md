@@ -6,8 +6,11 @@
 ---
 | Name | Student ID | Username |
 | ---- | ---------- | -------- |
-|Lasal | IT19132310 | CandyPanda-LS |
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+|Lasal Sandeepa Hettiarachchi| IT19132310 | CandyPanda-LS |
+|Senura Vihan Jayadeva| IT19139036 | senuravihanjayadeva |
+|Dilmi Nimasha Palliyaguruge| IT19120980 | Dilmi101 |
+|Ayodya Banuka Fernando| IT19146898 | ayodyabanuka |
+
 
 ## Available Scripts
 
