@@ -10,7 +10,18 @@
 |Senura Vihan Jayadeva| IT19139036 | senuravihanjayadeva |
 |Dilmi Nimasha Palliyaguruge| IT19120980 | Dilmi101 |
 |Ayodya Banuka Fernando| IT19146898 | ayodyabanuka |
+---
+##Project Description
 
+Econnectee is the all in one stop for an employee/ project management system . The project focuses on the main aspects of emplyee management such as employee attendance marking through an azure conganitive service face API and project management aspects such as projec creation , sprint creation , manager alocation , Sprint , Task management.
+
+##Technologies
+
+- Frontend : React
+- Backend : Node JS
+- Database Solution : Mongo DB
+- State management library : Redux
+- User Authentication : JWT
 
 ## Available Scripts
 
