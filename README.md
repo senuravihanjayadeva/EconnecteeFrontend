@@ -1,5 +1,12 @@
-## Getting Started with Create React App
-
+# 2021S2_REG_WE_13
+---
+## Econnectee Frontend
+---
+## Group Details
+---
+| Name | Student ID | Username |
+| ---- | ---------- | -------- |
+|Lasal | IT19132310 | CandyPanda-LS |
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
