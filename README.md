@@ -31,6 +31,11 @@ Econnectee is the all in one stop for an employee/ project management system . T
 3. Set up the environmental variables for the package manager
 
 ## Getting started
+###Prerequisites
+-  NOde JS enviroenment installed
+-  Node package manager installed
+-  JavaScript supported Browser
+###Procedure of setting up the project
 
 - Move into your projects directory: cd ~/YOUR_PROJECTS_DIRECTORY
 - Clone this repository: git clone
