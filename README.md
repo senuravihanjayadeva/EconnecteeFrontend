@@ -30,4 +30,12 @@ Econnectee is the all in one stop for an employee/ project management system . T
 2. npm package manager
 3. Set up the environmental variables for the package manager
 
-###Procedure of settion up the 
+## Getting started
+
+- Move into your projects directory: cd ~/YOUR_PROJECTS_DIRECTORY
+- Clone this repository: git clone
+- Move into the project directory: cd YOUR_PROJECT_NAME
+- Install the dependencies: npm install
+- Start the project: npm start
+- Deployed backend is connected to the frontend project. If you want to setup the backend locally please change it in the .env file in src/.env
+- Deployed Frontend - https://econnecteee.web.app/
