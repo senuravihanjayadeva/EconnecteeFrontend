@@ -32,13 +32,13 @@ Econnectee is the all in one stop for an employee/ project management system . T
 
 ## Getting started
 
-###Prerequisites
+### Prerequisites
 -  NOde JS enviroenment installed
 -  Node package manager installed
 -  JavaScript supported Browser
 
 
-###Procedure of setting up the project
+### Procedure of setting up the project
 
 - Move into your projects directory: cd ~/YOUR_PROJECTS_DIRECTORY
 - Clone this repository: git clone
